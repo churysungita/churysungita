@@ -9,7 +9,9 @@ Passionate about crafting innovative solutions through code. Turning complex pro
 ### What I Do
 
 🚀 Building robust, impactful software solutions.
+
 🌐 Contributing to open-source communities, fostering collaboration and shared knowledge.
+
 📚 Constantly learning and exploring new technologies to stay ahead.
 
 

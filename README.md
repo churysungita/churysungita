@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Chury Sungita
+### I'm Chury Sungita
 Software  Developer | Problem Solver | Open Source Enthusiast
 
 ### About Me
@@ -19,6 +19,7 @@ Passionate about crafting innovative solutions through code. Turning complex pro
 
 🐦 @ChurySungita
 📧 azizisungita.blogspot.com
+Emailme: churysungita@gmail.com
 
 ### Let's Collaborate!
 Excited to connect, collaborate on projects, or discuss tech-related topics!

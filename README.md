@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### I'm Chury Sungita
-Software  Developer | Problem Solver | Open Source Enthusiast
+Software  Developer
 
 ### About Me
 Passionate about crafting innovative solutions through code. Turning complex problems into elegant, efficient, and scalable solutions.

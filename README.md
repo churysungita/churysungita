@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Chury Sungita
+### I'm  Sungita
 Software  Enthuasist
 
 ### About Me
